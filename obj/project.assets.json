@@ -1191,11 +1191,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Examen Final\\ClientesAPI\\ClientesAPI.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Examen Recuperacion\\ClientesAPI\\ClientesAPI.csproj",
       "projectName": "ClientesAPI",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Examen Final\\ClientesAPI\\ClientesAPI.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\Examen Recuperacion\\ClientesAPI\\ClientesAPI.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Examen Final\\ClientesAPI\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\Examen Recuperacion\\ClientesAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
